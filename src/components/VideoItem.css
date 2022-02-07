@@ -2,7 +2,6 @@
   display: flex !important;
   align-items: center;
   cursor: pointer;
-  border: 1px solid rgba(153, 147, 147, 0.5);
 }
 
 .video-item img {
